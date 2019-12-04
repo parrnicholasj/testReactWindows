@@ -1,12 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+import MiniWindow from './stuff/miniWindow';
 
 function App() {
   return (
     <div className="App">
+
       Hello World
+      <MiniWindow />
+      
     </div>
+
+
   );
 }
 
