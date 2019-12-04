@@ -1,0 +1,23 @@
+{
+  "name": "testreactwindows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parrnicholasj/testReactWindows.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parrnicholasj/testReactWindows/issues"
+  },
+  "homepage": "https://github.com/parrnicholasj/testReactWindows#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
